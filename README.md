@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/flat-hand-drawn-web-developers-illustration_23-2148842972.jpg?size=626&ext=jpg&ga=GA1.1.191158671.1704327351&semt=ais])
+[![MasterHead](https://img.freepik.com/free-vector/flat-hand-drawn-web-developers-illustration_23-2148842972.jpg?size=626&ext=jpg&ga=GA1.1.191158671.1704327351&semt=ais])]
 <h1 align="center">Hey 👋, I'm FOMA⚡</h1>
 <h3 align="center">A self taught frontend developer from Nigeria</h3>
 (img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&ga=GA1.1.191158671.1704327351&semt=ais")
