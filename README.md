@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **faithamarachi860@gmail.com**
 
-- ⚡ Fun fact **I'm very good at play chess.**
+- ⚡ Fun fact **I'm very good at playing chess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
