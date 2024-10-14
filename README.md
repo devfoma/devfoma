@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://faithmadu.blogspot.com/#)
 
-- 🌱 I’m currently learning **React.js, saas.**
+- 🌱 I’m currently learning **React.js, cairo.**
 
 - 👨‍💻 All of my projects are available at [oluebube01.github.io](oluebube01.github.io)
 
