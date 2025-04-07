@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/affiliate_hima" target="blank"><img src="https://img.shields.io/twitter/follow/affiliate_hima?logo=twitter&style=for-the-badge" alt="affiliate_hima" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://faithmadu.blogspot.com/#)
+- 🔭 I’m currently working on [a freelance platform on sui Blockchain](/)
 
 - 🌱 I’m currently learning **Three js, Solidity, Cairo.**
 
