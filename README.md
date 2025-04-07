@@ -1,7 +1,5 @@
-[![MasterHead](https://img.freepik.com/free-vector/flat-hand-drawn-web-developers-illustration_23-2148842972.jpg?size=626&ext=jpg&ga=GA1.1.191158671.1704327351&semt=ais])
 <h1 align="center">Hey 👋, I'm FOMA⚡</h1>
-<h3 align="center">A self taught frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&ga=GA1.1.191158671.1704327351&semt=ais"/>
+<h3 align="center">A Frontend developer building on web3 and web2 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluebube01&label=Profile%20views&color=0e75b6&style=flat" alt="oluebube01" /> </p>
 
@@ -11,11 +9,11 @@
 
 - 🔭 I’m currently working on [my portfolio](https://faithmadu.blogspot.com/#)
 
-- 🌱 I’m currently learning **React.js, cairo.**
+- 🌱 I’m currently learning **Three js, Solidity, Cairo.**
 
-- 👨‍💻 All of my projects are available at [oluebube01.github.io](oluebube01.github.io)
+- 👨‍💻 All of my projects are available here
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **faithamarachi860@gmail.com**
 
