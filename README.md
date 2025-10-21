@@ -33,13 +33,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/faithamara"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="faithamara" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oluebube01&show_icons=true&locale=en&layout=compact" alt="oluebube01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devfoma&show_icons=true&locale=en&layout=compact" alt="oluebube01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oluebube01&show_icons=true&locale=en" alt="oluebube01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oluebube01&" alt="oluebube01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devfoma&" alt="oluebube01" /></p>
 
-<h1 align="center">Hey 👋, I'm Foma 😊🦋</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -74,20 +74,5 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
