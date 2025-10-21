@@ -135,8 +135,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devfoma&show_icons=true&locale=en" alt="oluebube01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devfoma&" alt="oluebube01" /></p>
-
 ###
 
 <div align="center">
