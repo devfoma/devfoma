@@ -19,12 +19,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/a9rsfd"  />
-</div>
-
-###
-
 <h3 align="left">My Languages and Tools:</h3>
 
 ###
@@ -155,12 +149,14 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devfoma/devfoma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devfoma/devfoma/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devfoma/devfoma/output/pacman-contribution-graph.svg">
-</picture>
-
+<div align="center">
+  <a href="https://commit-history.com/devfoma">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/devfoma?theme=dark" />
+      <img alt="devfoma's commit history" src="https://commit-history.com/embed/devfoma" />
+    </picture>
+  </a>
+</div>
 
 ###
 
